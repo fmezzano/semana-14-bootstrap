@@ -1,0 +1,10 @@
+article {
+    text-align: justify;
+    background-color: gainsboro;
+  }
+  @media (max-width: 767px) {
+  
+    #navbarNav {
+      display: none;
+    }
+  }
